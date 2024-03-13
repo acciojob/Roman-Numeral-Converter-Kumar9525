@@ -32,6 +32,5 @@ function convertToRoman(num) {
   return romanNumeral;
 }
 
-// Example usage:
-const result = convertToRoman(12345);
-console.log(result);  // Output: 'MMMMMMMMMMMMCCCXLV'
+// do not edit below this line
+module.exports = convertToRoman;
